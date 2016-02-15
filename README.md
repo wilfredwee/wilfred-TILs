@@ -9,4 +9,4 @@ TIL count: 1
 * [Linux-VM](#linux-vm)
 
 ### Linux-VM
-- [Running a server on Guest OS and connecting to it from Host OS](linux-vim/running-a-server-on-guest-os-and-connecting-to-ot-from-host-os.md)
+- [Running a server on Guest OS and connecting to it from Host OS](linux-vim/running-a-server-on-guest-os-and-connecting-to-it-from-host-os.md)
