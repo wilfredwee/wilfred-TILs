@@ -1,14 +1,15 @@
 # Splitting and merging PDF files on the command line
 
 You can use poppler-utils to do a lot of pdf stuff.
-<br />
-<br />
+
+
 1. First, install it. On Debian-based systems: `sudo apt-get install poppler-utils`
 1. To split, `pdfseparate -f <start page> -l <end page> <source pdf> <destination pdf>`
 1. To merge, `pdfunite <source pdf 1> <source pdf 2> <source pdf ...> <destination pdf>`
-<br />
-<br />
+
+
 There are many other utils provided, such as:
+
 1. `pdfdetach` - lists or extracts embedded files (attachments)
 1. `pdffonts` - font analyzer
 1. `pdfimages` - image extractor
