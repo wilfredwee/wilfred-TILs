@@ -10,6 +10,7 @@ TIL count: 5
 * [Linux-PDF](#linux-pdf)
 * [Linux-Debian](#linux-debian)
 * [Firefox](#firefox)
+* [etc](#etc)
 
 ### Linux-Debian
 - [Difference between apt-get upgrade and apt-get dist-upgrade](linux-debian/difference-between-apt-get-upgrade-and-apt-get-dist-upgrade.md)
@@ -23,3 +24,6 @@ TIL count: 5
 
 ## Firefox
 - [Changing full screen fade and warning message time](firefox/changing-full-screen-fade-and-warning-message-time.md)
+
+## etc
+- [Troubleshooting EFI not recognizing live USB](etc/troubleshooting-efi-not-recognizing-live-usb.md)
