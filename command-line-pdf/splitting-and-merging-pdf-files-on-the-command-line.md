@@ -1,8 +1,10 @@
 # Splitting and merging PDF files on the command line
 
-You can use poppler-utils to do a lot of pdf stuff.
+You have a choice of poppler-utils or qpdf. poppler-utils only works on Linux but qpdf is cross platform.
 
 
+
+## poppler-utils
 1. First, install it. On Debian-based systems: `sudo apt-get install poppler-utils`
 1. To split, `pdfseparate -f <start page> -l <end page> <source pdf> <destination pdf>`
 1. To merge, `pdfunite <source pdf 1> <source pdf 2> <source pdf ...> <destination pdf>`
@@ -24,3 +26,8 @@ There are many other utils provided, such as:
 
 Sourced from [this excellent blog post](http://jorge.fbarr.net/2015/02/20/split-and-merge-pdfs-part-2/).
 
+## qpdf
+Here are a few quick tips for using qpdf:
+
+* To quickly merge all pdf files in the folder: <br/>
+ `qpdf --empty --pages *.pdf -- out.pdf`
