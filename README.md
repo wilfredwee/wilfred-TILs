@@ -3,7 +3,7 @@ Collection of short technical stuff I learned during the day.
 <br />
 Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til)
 <br />
-TIL count: 5
+TIL count: 6
 
 ### Categories
 * [Linux-VM](#linux-vm)
@@ -19,6 +19,7 @@ TIL count: 5
 - [Running a server on Guest OS and connecting to it from Host OS](linux-vm/running-a-server-on-guest-os-and-connecting-to-it-from-host-os.md)
 
 ### Command-Line-PDF
+- [Recommended: Using qpdf](command-line-pdf/recommended-using-qpdf.md)
 - [Decrypting a PDF file without OWNER password on the command line](command-line-pdf/decrypting-a-pdf-file-without-owner-password-on-the-command-line.md)
 - [Splitting and merging PDF files on the command line](command-line-pdf/splitting-and-merging-pdf-files-on-the-command-line.md)
 
