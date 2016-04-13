@@ -7,7 +7,7 @@ TIL count: 5
 
 ### Categories
 * [Linux-VM](#linux-vm)
-* [Command-Line-PDF](command-line#-pdf)
+* [Command-Line-PDF](#command-line-pdf)
 * [Linux-Debian](#linux-debian)
 * [Firefox](#firefox)
 * [etc](#etc)
