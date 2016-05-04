@@ -10,6 +10,7 @@ TIL count: 5
 * [Linux-PDF](#linux-pdf)
 * [Linux-Debian](#linux-debian)
 * [Firefox](#firefox)
+* [Boot Management](#boot-management)
 * [etc](#etc)
 
 ### Linux-Debian
@@ -24,6 +25,10 @@ TIL count: 5
 
 ## Firefox
 - [Changing full screen fade and warning message time](firefox/changing-full-screen-fade-and-warning-message-time.md)
+
+## Boot-Management
+- [Restoring lost Windows boot files](boot-management/restoring-lost-windows-boot-files.md)
+- [Using REFInd as your Boot Manager](boot-management/using-refind-as-your-boot-manager.md)
 
 ## etc
 - [Troubleshooting EFI not recognizing live USB](etc/troubleshooting-efi-not-recognizing-live-usb.md)
