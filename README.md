@@ -11,6 +11,7 @@ TIL count: 6
 * [Linux-Debian](#linux-debian)
 * [Firefox](#firefox)
 * [Boot Management](#boot-management)
+* [SSH](#ssh)
 * [etc](#etc)
 
 ### Linux-Debian
@@ -30,6 +31,9 @@ TIL count: 6
 ## Boot-Management
 - [Restoring lost Windows boot files](boot-management/restoring-lost-windows-boot-files.md)
 - [Using REFInd as your Boot Manager](boot-management/using-refind-as-your-boot-manager.md)
+
+## SSH
+- [config](ssh/config.md)
 
 ## etc
 - [Troubleshooting EFI not recognizing live USB](etc/troubleshooting-efi-not-recognizing-live-usb.md)
